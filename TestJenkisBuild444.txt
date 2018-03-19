@@ -1,0 +1,17 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 6E80-1FCF
+
+ Directory of C:\Users\stekleab\Desktop\TestProjs
+
+03/19/2018  11:08 AM    <DIR>          .
+03/19/2018  11:08 AM    <DIR>          ..
+03/19/2018  09:49 AM               634 Log0319.txt
+03/15/2018  04:19 PM               464 Readme.txt
+03/19/2018  09:52 AM               671 Test1.class
+03/15/2018  02:08 PM               159 Test1.java
+03/15/2018  05:05 PM               522 TestBuildTrig.txt
+03/15/2018  05:52 PM               582 TestJenkinsTrig.txt
+03/19/2018  11:08 AM                 0 TestJenkisBuild444.txt
+03/19/2018  11:06 AM               696 TestPushBuild0319.txt
+               8 File(s)          3,728 bytes
+               2 Dir(s)  102,186,442,752 bytes free
